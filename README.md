@@ -5,4 +5,5 @@ Click INC to increment and DEC to decrement. The value you put in the TextField 
 
 ### Netlify Deploy
 You can view the webapp running clicking here: https://penninha-counter-react-redux.netlify.com/
+
 Deployed within Netlify!
